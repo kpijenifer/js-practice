@@ -1,0 +1,11 @@
+let india=["arun","jeni","mani","calep","kalep"];
+ mish=india.slice(2,3);
+console.log(mish);
+mish1=india.slice(-3,-1);
+console.log(mish1);
+mish2=india.slice(-4);
+console.log(mish2);
+mish3=india.slice(2);
+console.log(mish3);
+mish4=india.slice(1,4);
+console.log(mish4);
