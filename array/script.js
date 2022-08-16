@@ -161,8 +161,266 @@
 
 // total=t+e+m+s+ss;
 // console.log(total);
+// avg=total/5;
+// console.log(avg);
 
+// // positive or not
+
+//  let a=parseInt(prompt("enter the value a"));b=parseInt(prompt("enter the value b"));
+
+// if(a>0){
+    // console.log("possitive",a)
+// }
+// else if(a<0){
+//     console.log("negative",a);
+// }
+// else{
+//     console.log("zero",b);
+// }
+// if(b>0){
+//     console.log("possitive",b)
+// }
+// else if(b<0){
+//     console.log("negative",b);
+// }
+// else{
+//     console.log("zero",b );
+// }
+ 
 // large number
+
+// let a=parseInt(prompt("enter the value a")),b=parseInt(prompt("enter the value b"));
+// if (a>b){
+//     console.log(a);
+// }
+
+
+// else{
+//     console.log(b);
+// }
+
+// greater than 10
+// let a=15;
+// if(a>16){
+//     console.log("greater than");
+// }
+// else if(a<16){
+//     console.log("less than");
+// }
+// even or odd
+// let a=parseInt(prompt("enter the value"));
+
+// if(a%2==0){
+//     console.log("even number");
+
+// }
+// else{
+//     console.log("odd number");
+// }
+
+
+// let a=parseInt(prompt("enter the value"));
+// if(a%5==0){
+//     console.log("this is divible by 5:",a);
+
+// }
+// else{
+//     console.log("not divisible by 5:",a);
+// }
+
+// mulitible
+
+// let b=parseInt(prompt("enter the value"));
+//     console.log(b*7);
+
+
+
+// // assendingorder,desindingorder
+
+
+// let a=parseInt(prompt("enter the value a"));
+//  let   b=parseInt(prompt("enter the value b"));
+//   let  c=parseInt(prompt("enter the value c"));
+   
+
+//     if(a>b && a>c ){
+//                 if(b>c){
+//             console.log(c,b,a);
+//             console.log(a,b,c);
+//         }
+//         else{
+//             (b<c)
+//                 console.log(b,c,a);
+//                 console.log(a,c,b);
+            
+
+//       }
+
+
+//     }
+
+//     if(b>a && b>c){
+//         if(a>c){
+//             console.log(a,c,b);
+//             console.log(b,c,a);
+//         }
+//         else{
+//             if(a<c)
+//             console.log(a,c,b);
+//             console.log(b,c,a);
+
+//         }
+//     }
+
+//     if(c>a && c>b){
+//       if(a>b){
+//         console.log(b,a,c);
+//         console.log(c,a,b);
+//       }
+//       else{
+//         (a<b)
+//         console.log(a,b,c);
+//         console.log(c,b,a);
+//       }  
+//     }
+
+
+    // quadratic equation
+
+//     let a=parseInt(prompt("enter them value 1 "));
+//     let b=parseInt(prompt("enter the value 2 "));
+//     let c=parseInt(prompt("enter the value 3"));
+
+// //     x=((b**2)-(4*a*c))**(1/2);
+// // //  let   d=(x)**(1/2);
+
+// //     y=((-b+x))/(2*a);
+// //     console.log(y);
+
+// //     z=((-b-x))/(2*a);
+// //     console.log(z);
+
+
+// x=((b**2)-(4*a*c))**(1/2);
+// y=(-b+x)/(2*a);
+// console.log(y);
+// z=(-b-x)/(2*a);
+// console.log(z);
+
+
+
+// let a=parseInt(prompt("enter the mark a"));
+//     // b=parseInt(prompt("enter the mark b")); 
+//     // c=parseInt(prompt("enter the mark c"));
+
+//     if(a>=0 && a<35){
+//         console.log("fail");
+
+//     }
+//     else if(a>=35 && a<60){
+//         console.log("C grade");
+//     }
+//     else if(a>=60 && a<80){
+//         console.log("B grade");
+//     }
+//     else if(a>=80 && a<=100){
+//         console.log("A grade");
+//     }
+//     else if(a>100){
+//         console.log("Your mark are undefined");
+//     }
+//     else if(a<0){
+//         console.log("this is also undefined");
+//     }
+//     else{
+//         console.log("please type your mark");
+//     }
+//   let a=10;
+//   console.log(a++);
+// for (a=12;a<=22;a++){
+//     console.log(a);
+// }
+
+// let a=parseInt(prompt("enter your age"));
+
+// for(i=0;i<a;i++){
+//     if(a>=18){
+//         let jeni=confirm("your eligibility to marr")
+//         if(confirm){
+//             console.log("go to marr");break
+//         }else{
+//             alert("go out");
+//         }
+//     }else{
+//         alert("Sorry kid");break
+//     }
+// }
+// console.log(a);
+
+
+// let a=parseInt(prompt("enter the N number "));
+//     for(i=0;i<=a;i++){
+//         console.log(i);
+//     }
+    // let a=parseInt(prompt("enter the N number "));
+    // for(i=a;i>=0;i--){
+    //     console.log(i);
+    // }
+
+    // let a=parseInt(prompt("enter the N number "));
+    // for(i=0;i<=a;i+=2){
+        
+    //       console.log(i);
+        
+        
+    // }
+
+    // let a=parseInt(prompt("enter the value"));
+    // for(i=0;i<=a;i++){
+    //     if(i%2){
+    //         console.log(i);
+    //     }
+    // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+     
+
+
+
+
+
 
 
 
