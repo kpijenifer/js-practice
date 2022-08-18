@@ -64,17 +64,17 @@
 
 // // slice
 
-// let india=["arun","jeni","mani","calep","kalep"];
-//  mish=india.slice(2,3);
-// console.log(mish);
-// mish1=india.slice(-3,-1);
-// console.log(mish1);
-// mish2=india.slice(-4);
-// console.log(mish2);
-// mish3=india.slice(2);
-// console.log(mish3);
-// mish4=india.slice(1,4);
-// console.log(mish4);
+//  let india=["arun","jeni","mani","calep","kalep"];
+//   mish=india.slice(1,4);
+//  console.log(mish);
+//  mish1=india.slice(-3,-1);
+//  console.log(mish1);
+//  mish2=india.slice(-4);
+//  console.log(mish2);
+//  mish3=india.slice(2);
+//  console.log(mish3);
+//  mish4=india.slice(1,4);
+//  console.log(mish4);
 
 
 
@@ -197,9 +197,7 @@
 
 // else{
 //     console.log(b);
-// }
-
-// greater than 10
+// }// greater than 10
 // let a=15;
 // if(a>16){
 //     console.log("greater than");
@@ -307,7 +305,7 @@
 // z=(-b-x)/(2*a);
 // console.log(z);
 
-
+// grade
 
 // let a=parseInt(prompt("enter the mark a"));
 //     // b=parseInt(prompt("enter the mark b")); 
@@ -340,6 +338,7 @@
 // for (a=12;a<=22;a++){
 //     console.log(a);
 // }
+// marriage eligibility
 
 // let a=parseInt(prompt("enter your age"));
 
@@ -357,31 +356,58 @@
 // }
 // console.log(a);
 
-
+// N number
 // let a=parseInt(prompt("enter the N number "));
 //     for(i=0;i<=a;i++){
 //         console.log(i);
 //     }
+
+// Nnumber reverse order
     // let a=parseInt(prompt("enter the N number "));
     // for(i=a;i>=0;i--){
     //     console.log(i);
     // }
+    // n even number
 
     // let a=parseInt(prompt("enter the N number "));
     // for(i=0;i<=a;i+=2){
         
     //       console.log(i);
-        
-        
-    // }
 
-    // let a=parseInt(prompt("enter the value"));
-    // for(i=0;i<=a;i++){
-    //     if(i%2){
-    //         console.log(i);
-    //     }
-    // }
+    // n odd number
 
+    // let a=parseInt(prompt("enter the N number "));
+    //  for(i=0;i<=a;i++){
+//     //      if(i%2!==0){
+//     //         console.log(i);
+//     //      }
+// }
+
+
+// print reverse of a order
+
+
+
+// let a=45;
+// let b=(a)=>parseInt(String(a)  
+// .split("")
+// .reverse()
+// .join(""));
+// console.log(b(a));
+
+
+// calculate sum of a number
+
+// let a=parseInt(prompt("enter the value"));
+// let b=parseInt(prompt("enter the value"));
+// let c;
+
+// function add(){
+//     return c=(a+b);
+      
+// }
+// c=add();
+// console.log(c);
 
 
 
@@ -426,6 +452,7 @@
 
 
 
+''
 
 
 
