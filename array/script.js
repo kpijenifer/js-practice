@@ -397,17 +397,60 @@
 
 
 // calculate sum of a number
+     
 
-// let a=parseInt(prompt("enter the value"));
-// let b=parseInt(prompt("enter the value"));
-// let c;
+// let n=parseInt(prompt("enter the value a"));
 
-// function add(){
-//     return c=(a+b);
-      
+// sum=0;
+
+// for(i=0;i<=n;i++){
+//     sum=sum+i;
+
 // }
-// c=add();
-// console.log(c);
+// console.log(sum);
+
+
+let n=parseInt(prompt("enter the value n"));
+let sum=0;
+let rem;
+while(n>=1){
+    rem=n%10;
+    s=rem**3+sum ;
+    s=sum;
+    n=n/10;
+    n=parseInt(n);
+}
+console.log(s);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
