@@ -39,12 +39,22 @@
 //area of triangle
 // m=1/2*b*h;
 
-let b,h;
-let k=1/2;
-b=parseFloat(prompt("enter the value b"));
-h=parseFloat(prompt("enter the value h"));
-m=k*b*h;
-console.log(m);
+// let b,h;
+// let k=1/2;
+// b=parseFloat(prompt("enter the value b"));
+// h=parseFloat(prompt("enter the value h"));
+// m=k*b*h;
+// console.log(m);
+
+
+
+
+
+//  let arrayname=["jeni","mani","arun"];
+//  for(  i=0;i<arrayname.length;i++){
+
+// console.log(arrayname.length);
+//  }
 
 
 
